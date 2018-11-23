@@ -6,8 +6,28 @@
         <fileDesc>
             <titleStmt>
                 <title>Don't Rain On My Parade</title>
+                 <respStmt>
+                    <resp> Encoded by</resp>
+                    <resp>Anna Fitzsimons</resp>
+                </respStmt>
+                <respStmt>
+                    <persName role="cmp" auth.uri="https://en.wikipedia.org/wiki/Jule_Styne"
+                        auth="Wikipedia" xml:id="workcreator">Jule Styne</persName>
+                </respStmt>
+                <respStmt>
+                    <persName role="lyr" auth.uri="https://en.wikipedia.org/wiki/Bob_Merrill"
+                        auth="Wikipedia" xml:id="worklyricist">Bob Merrill</persName>
+                </respStmt>
+                <respStmt>
+                    <persName role="perf" auth.uri="https://musicbrainz.org/artist/56cd15a1-0d74-438b-8244-c96ffe1cae03"
+                        auth="MusicBrainz" xml:id="workperformer">Barbra Streisand</persName>
+                    <!-- Information regarding those who were involved in the original edition -->
+                </respStmt>
             </titleStmt>
             <pubStmt></pubStmt>
+            <seriesStmt>
+                <title>Funny Girl The Musical</title>
+            </seriesStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000000371156396">
             <appInfo xml:id="appinfo-0000001803839314">
